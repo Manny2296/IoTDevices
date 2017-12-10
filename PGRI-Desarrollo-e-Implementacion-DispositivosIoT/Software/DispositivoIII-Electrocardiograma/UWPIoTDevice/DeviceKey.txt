@@ -1,0 +1,1 @@
+﻿HostName=genesis2.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=LSrQzyX+Xju+wuO+58qRQ+QlmNzWj1JQ88HiMKviEk8=
