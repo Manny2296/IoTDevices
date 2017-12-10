@@ -15,4 +15,16 @@ Luego de tener configurada correctamente la libreria Webiopi se debe guardar el 
 ```
 sudo webiopi -d -c /etc/webiopi/configtemp
 ```
-Al ejecutarse el servidor proveera la URL donde se debe conectar para ingresar a la interfaz de control de luces y temperatura
+Al ejecutarse el servidor proveera la URL donde se debe conectar para ingresar a la interfaz de control de luces y temperatura.
+La URL debe apuntar al puerto 8000
+Ejemplo : 
+
+```
+http://192.168.0.1:8000/
+```
+
+Las credenciales de autenticación son : 
+
+user : webiopi
+password : alice 
+
